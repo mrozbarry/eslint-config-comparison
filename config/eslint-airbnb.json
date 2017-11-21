@@ -1,0 +1,14 @@
+{
+  "plugins": ["import"],
+  "extends": ["eslint:recommended", "airbnb-base"],
+  "parser": "babel-eslint",
+  "rules": {
+  },
+  "env": {
+    "browser": true,
+    "node": false
+  },
+  "globals": {
+    "define": true
+  }
+}

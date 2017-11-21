@@ -1,0 +1,7 @@
+#!/usr/bin/env sh
+
+CONFIG="./config/eslint-${1}.json"
+
+echo "Switching to $1"
+echo $CONFIG
+ln -sf $CONFIG ./.eslintrc.json
