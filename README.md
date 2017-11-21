@@ -1,6 +1,14 @@
 # eslint-config-comparison
 
+This was part of a tech talk I did for work, which you can [find here](https://docs.google.com/presentation/d/1pTHOknXru5s1IGKk4NSKjCEcx-1GQ2S8iN7qEGBsvDE/edit?usp=sharing).
+
 ## Setup
+
+### Pre-reqs
+
+ - [nvm](https://github.com/creationix/nvm)
+
+### Install stuff
 
 ```
 $ nvm use
