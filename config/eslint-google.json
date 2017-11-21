@@ -1,0 +1,14 @@
+{
+  "plugins": [],
+  "extends": ["eslint:recommended", "google"],
+  "parser": "babel-eslint",
+  "rules": {
+  },
+  "env": {
+    "browser": true,
+    "node": false
+  },
+  "globals": {
+    "define": true
+  }
+}
