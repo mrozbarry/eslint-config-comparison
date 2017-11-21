@@ -313,6 +313,10 @@ eslint-config-idiomatic@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/eslint-config-idiomatic/-/eslint-config-idiomatic-4.0.0.tgz#0ff2b5435c9c290d92223be5bd97c4cf19d4d0d4"
 
+eslint-config-jquery@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-jquery/-/eslint-config-jquery-1.0.1.tgz#a7fdd7bbc98a654bc77139c1f5535fadf0df23c8"
+
 eslint-import-resolver-node@^0.3.1:
   version "0.3.1"
   resolved "https://registry.yarnpkg.com/eslint-import-resolver-node/-/eslint-import-resolver-node-0.3.1.tgz#4422574cde66a9a7b099938ee4d508a199e0e3cc"
